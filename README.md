@@ -1,6 +1,6 @@
-# Space-Pomodoro
+# Astropomodoro
 
-Space-Pomodoro is a minimal, space-themed, work-in-progress Pomodoro timer implemented in Python 3. The application runs in the terminal, allowing users to efficiently manage their work and break sessions. The user can control the timer with the following commands:
+Astropomodoro is a minimal, space-themed Pomodoro timer implemented in Python 3. The application runs in the terminal, allowing users to efficiently manage their work and break sessions. The user can control the timer with the following commands:
 
 1. (s)tart - Start the timer
 2. (p)ause - Pause and resume the timer
@@ -14,4 +14,4 @@ Space-Pomodoro is a minimal, space-themed, work-in-progress Pomodoro timer imple
 3. Run the application by typing `python3 astropomodoro.py`, depending on your system's Python installation.
 4. Follow the on-screen instructions to control the timer.
 
-Enjoy increased productivity as you journey through the cosmos with Space-Pomodoro!
+Enjoy increased productivity as you journey through the cosmos with Astropomodoro!
