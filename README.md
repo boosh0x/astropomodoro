@@ -15,7 +15,7 @@ A work-in-progress, minimal, command-line Pomodoro app built with Python to help
 1. Ensure Python 3 is installed on your system.
 2. Clone or download the repository.
 3. Navigate to the repository folder in the terminal.
-4. Run python3 pomodoro.py to start the default Pomodoro timer (25-minute work sessions, 5-minute short breaks, 15-minute long break after completing all cycles).
+4. Run python3 astropomodoro.py to start the default Pomodoro timer (25-minute work sessions, 5-minute short breaks, 15-minute long break after completing all cycles).
 5. Customize the timer durations and number of cycles by modifying the arguments in the pomodoro() function.
 
 ## Future Updates
